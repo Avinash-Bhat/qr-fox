@@ -1,0 +1,9 @@
+{
+    "name": "qr-fox",
+    "license": "MPL 2.0(http://www.mozilla.org/MPL/2.0/)",
+    "author": "Avinash R",
+    "version": "0.2",
+    "fullName": "Quick Response fox",
+    "id": "jid1-bBT8NLeQs8WnsA",
+    "description": "Reads shows a qr code of the current tab"
+}
